@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ClothesMall</string>
+    <string name="title_activity_info_store">ClothesMall - More</string>
+    <string name="title_activity_image_view">ClothesMall - Image</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string-array name="array_countries">
+        <item>Adoc</item>
+        <item>Bershka</item>
+        <item>Nine West</item>
+	<item>Siman</item>
+    </string-array>
+    <string name="horario">Horarios:</string>
+    <string name="contacto">Contacto:</string>
+    <string name="action_info">Informacion</string>
+    <string name="action_image">Imagenes</string>
+    <string name="action_list">Tiendas</string>
+</resources>
